@@ -14,8 +14,12 @@ Python is the most popular all-purpose programming language. Reason for its popu
 
 TODO
 
-### **Please select your OS (Operating System) for installation instructions.**
+### **Follow the steps below to setup your environment.**
 
-[MacOS](./macos-installation.md)
+1. Please select your OS (Operating System) to install necessary software and tools.
 
-[Windows](./windows-installation.md)
+- [MacOS](./macos-installation.md)
+
+- [Windows](./windows-installation.md)
+
+2. To setup docker containers follow [this guide](./docker-setup.md)

@@ -14,4 +14,3 @@
 7. Click Save (You should now have access to Postgres with dvd rental sample database)
 
 ## Python container that supports selenium webdriver and other necessary libraries out of the box
-TODO

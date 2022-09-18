@@ -13,9 +13,3 @@ We'll need Docker to host our database and other services locally on our compute
 [Click here](https://desktop.docker.com/win/main/amd64/Docker%20Desktop%20Installer.exe) to download
 
 **Once downloaded, [click here](https://docs.docker.com/desktop/install/windows-install/#install-interactively) to proceed with the installation.**
-
-## VSCode
-
-[Click on this link to download](https://code.visualstudio.com/docs/?dv=win)
-
-**Open downloaded installator and follow the instructions.**

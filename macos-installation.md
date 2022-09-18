@@ -19,8 +19,4 @@ If you have an Apple chip (M1, M2) [click here to download](https://desktop.dock
 
 **Once downloaded, [click here](https://docs.docker.com/desktop/install/mac-install/#install-interactively) to proceed with the installation.**
 
-## VSCode
-
-[Click on this link](https://code.visualstudio.com/Download#) and select your processor chip under MacOS
-
 **Open downloaded installator and follow the instructions.**

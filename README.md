@@ -2,7 +2,7 @@
 
 We're going to be using following tech stack for this class. Please follow along to get everything setup on your computer.
 
-## [PostgreSQL](https://www.postgresql.org/about/){target="_blank"}
+## [PostgreSQL](https://www.postgresql.org/about/)
 
 PostgreSQL aka Postgres is one of the most popular relational database management systems (RDBMSs) on the market. It’s free and open source and used my many large corporations such as Apple, Instagram, etc. It's also relatively easy to setup and gor that reason we'll be using it for our class.
 

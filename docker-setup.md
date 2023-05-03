@@ -31,3 +31,4 @@
    3. Navigate to http://localhost:7900/ and enter password `secret`
       - This page will show you the actions the browser is taking when you run your automation scripts.
       - You should see chrome with one tab logged in to google.com. You can rerun step 2 and pay attention how a new browser window opens.
+5. Run commands from [post-install-script file](./post-install-script.txt) inside docker container

@@ -16,7 +16,6 @@ Selenium WebDriver is a web framework that permits you to execute cross-browser 
 
 ### **Follow the steps below to setup your environment.**
 
-1. Please select your OS (Operating System) to install necessary software and tools.
 
 - [MacOS](./macos-installation.md)
 
@@ -24,7 +23,7 @@ Selenium WebDriver is a web framework that permits you to execute cross-browser 
 
 2. VSCode
 
-   - Download and install for your OS
+   - Download and install for your Operating System
    - Install following extensions
      - [Remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
      - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
@@ -32,3 +31,6 @@ Selenium WebDriver is a web framework that permits you to execute cross-browser 
      - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 3. To setup docker containers follow [this guide](./docker-setup.md)
+
+
+4: Learn GIT

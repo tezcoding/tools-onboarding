@@ -16,6 +16,7 @@ Selenium WebDriver is a web framework that permits you to execute cross-browser 
 
 ### **Follow the steps below to setup your environment.**
 
+1. Please select your OS (Operating System) to install necessary software and tools.
 
 - [MacOS](./macos-installation.md)
 
@@ -31,6 +32,3 @@ Selenium WebDriver is a web framework that permits you to execute cross-browser 
      - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 3. To setup docker containers follow [this guide](./docker-setup.md)
-
-
-4: Learn GIT

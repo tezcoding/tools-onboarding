@@ -28,7 +28,5 @@ Selenium WebDriver is a web framework that permits you to execute cross-browser 
    - Install following extensions
      - [Remote-containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)
      - [Python Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-python.python)
-     - [IntelliCode](https://marketplace.visualstudio.com/items?itemName=VisualStudioExptTeam.vscodeintellicode)
-     - [GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
 3. To setup docker containers follow [this guide](./docker-setup.md)

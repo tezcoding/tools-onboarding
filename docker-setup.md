@@ -20,7 +20,7 @@
    - For MacOS and Windows with ARM chips run:
      - `docker run --name python-container -d --restart=always -p 4444:4444 -p 7900:7900 --shm-size="2g" tezsolutions/arm_python_webdriver`
    - For Windows and MacOS with AMD chips run:
-     - `docker run --name python-container -d --restart=always -p 4444:4444 -p 7900:7900 --shm-size="2g" tezsolutions/arm_python_webdriver`
+     - `docker run --name python-container -d --restart=always -p 4444:4444 -p 7900:7900 --shm-size="2g" tezsolutions/amd_python_webdriver`
 2. Check that the container is running
    - `docker ps` and look for `python-container` it should be in the list of running containers.
    - Or open Docker desktop and verify that `python-container` is running.

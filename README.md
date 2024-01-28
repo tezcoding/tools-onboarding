@@ -4,6 +4,7 @@ We're going to be using following tech stack for this class. Please follow along
 
 ### Unsupported devices as of 2024
  - Windows PCs running on ARM chips
+ - Windows PCs running on Windows version older than Windows 10. (E.g. Windows 7, 8)
  - Non-standard Linux distributions. (E.g. ChromeOS)
 
 ## [PostgreSQL](https://www.postgresql.org/about/)
